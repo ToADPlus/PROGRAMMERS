@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class PRO_가사검색_임효진 {
+public class PRO가사검색_임효진 {
 	public static void main(String[] args) {
 		String[] words = { "frodo", "front", "frost", "frozen", "frame", "kakao" };
 		String[] queries = { "fro??", "????o", "fr???", "fro???", "pro?" };
